@@ -27,7 +27,7 @@ How to reach me: [Email](mailto:itman.terminal@outlook.com) | [Telegram](https:/
 
 ## Skills:
 
-- Go: Learning...
+- Go: Learning...(You can see this on [My Notes](https://notes.linserin.work/start-1)
 - Cpp: A little bit.
 - Python: A little bit.
 - `Ctrl+C`,`Ctrl+v`: 🔥🔥 **100%**
