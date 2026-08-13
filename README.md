@@ -23,11 +23,11 @@ I'm learning the Go Lang currently.
 
 ✍🏻️ [Notes](http://linserin.work/notes)
 
-How to reach me: [Email](mailto:itman.terminal@outlook.com) | [Telegram](https://t.me/Linserin_Init)
+How to reach me: [Email](mailto:ly@linserin.work) | [Telegram](https://t.me/Linserin_Init)
 
 ## Skills:
 
-- Go: Learning...(You can see this on [My Notes](https://notes.linserin.work/start-1) )
+- Go: Learning...(You can see this on [My Notes](https://notes.linserin.work/go/start-1) )
 - Cpp: A little bit.
 - Python: A little bit.
 - `Ctrl+C`,`Ctrl+v`: 🔥🔥 **100%**
