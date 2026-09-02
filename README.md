@@ -27,7 +27,5 @@ How to reach me: [Email](mailto:ly@linserin.work) | [Telegram](https://t.me/Lins
 
 ## Skills:
 
-- Go: Learning...(You can see this on [My Notes](https://notes.linserin.work/go/start-1) )
-- Cpp: A little bit.
-- Python: A little bit.
-- `Ctrl+C`,`Ctrl+v`: 🔥🔥 **100%**
+- [![My Skills](https://skillicons.dev/icons?i=git,linux,debian,github,golang,markdown,vscode,cloudflare,astro&theme=dark&perline=15)](https://skillicons.dev)
+- `Ctrl+C`,`Ctrl+V`: 🔥🔥 **100%**
