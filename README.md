@@ -27,5 +27,5 @@ How to reach me: [Email](mailto:ly@linserin.work) | [Telegram](https://t.me/Lins
 
 ## Skills:
 
-- [![My Skills](https://skillicons.dev/icons?i=git,linux,debian,github,golang,markdown,vscode,cloudflare,astro&theme=dark&perline=15)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=git,linux,debian,github,golang,markdown,vscode,cloudflare&theme=dark&perline=15)](https://skillicons.dev)
 - `Ctrl+C`,`Ctrl+V`: 🔥🔥 **100%**
